@@ -1,11 +1,20 @@
 
 # Readme Generator
 
+Link to video Walk Through: https://drive.google.com/file/d/19RLE6S7Q820abVYQXlWGCLujWBFpffKb/view
+
+
 ## Description
-This prokect allows users to answer promtps to create a readme file for their project.
+This project allows users to answer promtps to create a readme file for their project.
 
 ## Table of Contents
-Description Installation Usage License Contributions Tests Questions
+Description 
+Installation 
+Usage 
+License 
+Contributions 
+Tests 
+Questions
 
 ## Installation
 The user will have to gain access to the local node file in order to use this application.
